@@ -1,0 +1,152 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+section{
+    height: 600px;
+}
+
+.helf-width{
+    float: left;
+    width: 40%;
+    margin: 0% 5%;
+    height: 650px;
+}
+
+h1{
+    font-size: 55px;
+    margin: 0%;
+    font-weight: 700;
+    color: #0e0d48d9;
+}
+
+p{
+    width: 59%;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000000a3;
+    padding: 16px 0;
+}
+
+a{
+    text-decoration: none;
+    color: whitesmoke;
+    background-image: linear-gradient(45deg, rgb(255, 30, 0), tomato);
+    padding: 10px 30px;
+    border-radius: 30px;
+}
+
+.container .helf-width img{
+    width: 75%;
+    margin-top: -60px;
+    padding-left: 90px;
+}
+
+.text-highlight{
+    color: tomato;
+}
+
+.top-inner{
+    margin: 130px 0;
+}
+
+.middle-inner{
+    margin-top: 70px;
+}
+
+.latest-work img{
+    width: 92%;
+    margin-left: 12px;
+    margin-top: 15px;
+}
+
+.col-3{
+    float: left;
+    width: 25%;
+    height: 400px;
+    margin: 0% 4%;
+}
+
+.project-inner{
+    background-color: #e2dfdf8c;
+    border-radius: 12px;
+    height: 320px;
+}
+
+.project-text{
+    margin-left: 25px;
+}
+
+.project-text h3{
+    margin: 7px 0;
+    font-size: 23px;
+    color: #0e0d48d9;
+}
+
+.project-text p{
+    padding: 0px;
+    width: 100%;
+}
+
+.latest-work h2{
+    
+text-align: center;
+    
+font-size: 40px;
+    
+margin-bottom: 50px;
+}
+
+.inbox-section{
+    height: 250px;
+}
+
+.inbox{
+    background-image: url(../images/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0% 22%;
+    height: 185px;
+}
+
+.inbox h1{
+    font-size: 47px;
+    display: inline;
+    width: 100%;
+    color: #ffffff;
+    text-transform: uppercase;
+    margin-top: 22px!improtant;
+}
+
+.inbox a{
+    
+margin-left: 141px;
+    
+line-height: 4;
+}
+
+.inbox .helf-width{
+    height: 185px;
+    margin-top: 62px;
+}
+
+.last-section{
+    background-image: url(../images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.last-section img{
+    width: 75%;
+}
+
+.last-section .helf-width{
+    height: 400px;
+    margin-top: 151px;
+}
+
+footer{
+    text-align: center;
+    color: #969696;
+    font-size: 12px;
+}
